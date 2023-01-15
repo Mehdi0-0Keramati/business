@@ -1,0 +1,15 @@
+@font-face {
+  font-family: centralBold;
+  font-display: block;
+  src: url("./assets/font/CentraNo2-Bold.ttf");
+}
+* {
+  margin: 0;
+  /* border: 0; */
+  padding: 0;
+  box-sizing: border-box;
+  font-family: centralBold;
+}
+body{
+  overflow-x: hidden;
+}
